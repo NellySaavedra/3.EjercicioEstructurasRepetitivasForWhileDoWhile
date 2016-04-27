@@ -6,7 +6,7 @@ var i = 0
 
 do {
 resultado = resultado + i
-alert("r "+ resultado)
+alert("RESULTADO "+ resultado)
 i++
 }
 
